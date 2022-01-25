@@ -1,3 +1,5 @@
+# Calcula o valor do m² de um terreno
+
 def preço(larg, comp, val):
     area = larg * comp
     preçoPm = val / area
